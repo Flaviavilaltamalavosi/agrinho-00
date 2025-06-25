@@ -8,46 +8,13 @@
 <style>
 body {font-family: Arial, sans-serif;line-height: 1.6;margin: 0;padding: 0;background-color: #f4f4f4;color: #333;}
 header {background-color: #4CAF50;color: #fff;padding: 10px 0;text-align: center;}
-  nav {
-            background-color: #333;
-            color: white;
-            padding: 10px 0;
-            text-align: center;}
-        nav a {
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-            text-transform: uppercase;
-        }
-        nav a:hover {
-            background-color: #ddd;
-            color: #333;
-        }
-        .content {
-            max-width: 900px;
-            margin: 20px auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .content h1 {
-            font-size: 24px;
-            color: #4CAF50;
-        }
-        .content p {
-            font-size: 16px;
-            line-height: 1.8;
-        }
-        footer {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 10px 0;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
+  nav {background-color: #333;color: white;padding: 10px 0;text-align: center;}
+nav a {color: white;padding: 10px 20px;text-decoration: none;text-transform: uppercase;}
+nav a:hover {background-color: #ddd;color: #333;}
+.content {max-width: 900px;margin: 20px auto;background-color: #fff;padding: 20px;border-radius: 8px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);}
+.content h1 {font-size: 24px;color: #4CAF50;}
+.content p {font-size: 16px;line-height: 1.8;}
+footer {background-color: #333;color: white;text-align: center;padding: 10px 0;position: fixed;width: 100%;bottom: 0;}
     </style>
 </head>
 <body>
